@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Production build
+dist/
+*/dist/
+
+# Python cache & virtual environments
+__pycache__/
+*/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor & System
+.vscode/
+.idea/
+.DS_Store
